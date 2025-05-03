@@ -1,8 +1,8 @@
 ﻿{
   "name": "CosyValuables",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/Wexop/CosyValuables",
-  "description": "Add cute and cosy valuables to the game, to chill with !",
+  "description": "Add cosy valuables to the game, to chill with ! Or even dance with a disco ball",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
     "Zehs-REPOLib-2.1.0"
